@@ -1,0 +1,63 @@
+.title {
+    color: #bc1bc4;
+    font-family: 'Dancing Script', cursive;
+}
+
+.sophmore {
+    color: #6032a8;
+    font-family: 'Dancing Script', cursive;
+}
+
+.Morrei {
+    color: #d40644;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.pink {
+    background-color: #fc23f2;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.tv {
+    background-color: #fc23f2;
+    font-family: 'Indie Flower', cursive;
+}
+
+.requirements {
+    color: #4773ed;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.medical {
+    color: #4278ed;
+    font-family: 'Permanent Marker', cursive;
+}
+
+body {
+    background-color: #FAE82C;
+}
+
+img {
+    width: 150px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+img {
+    border-style: solid;
+    border-color: #ba14ba;
+}
